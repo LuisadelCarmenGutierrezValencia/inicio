@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383602444300",
+    "project_id": "inicio-e7c86",
+    "storage_bucket": "inicio-e7c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383602444300:android:d2fe6a982a95d2399c4629",
+        "android_client_info": {
+          "package_name": "com.example.inicio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC72K11DJ740Hxal7Ib822FnQiUl3PSCDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
